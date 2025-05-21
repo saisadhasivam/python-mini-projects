@@ -1,3 +1,5 @@
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
+
 # Python Mini Projects for Beginners 🎯
 
 This repository contains four beginner-friendly Python mini projects built using basic Python concepts (no classes or external libraries).
